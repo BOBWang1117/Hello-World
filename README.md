@@ -8,6 +8,6 @@ Therefore I write a simple C file called hello.c
 
 Wish you have a good day
 
-
+\n
 
 Yours, BOB
